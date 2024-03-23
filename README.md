@@ -1,1 +1,2 @@
-# Hospital-Management-System-mini-project
+# Hospital-Management-System-miniproject 
+using php with html css
